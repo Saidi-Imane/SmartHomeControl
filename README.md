@@ -1,6 +1,5 @@
 # SmartHomeControl
-![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
-![Java Version](https://img.shields.io/badge/Java-11%2B-blue)
+![Java Version](https://img.shields.io/badge/Java-19%2B-blue)
 ![JUnit Version](https://img.shields.io/badge/JUnit-5-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
