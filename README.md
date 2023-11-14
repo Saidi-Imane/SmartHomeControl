@@ -28,8 +28,8 @@ This Java project implements a SmartHome Automation System using design patterns
 
 ## How to Run Tests
 
-1. Clone the repository: `git clone https://github.com/your-username/SmartHomeAutomation.git`
-2. Navigate to the project directory: `cd SmartHomeAutomation`
+1. Clone the repository: `git clone https://github.com/your-username/tp3.git`
+2. Navigate to the project directory: `cd tp3`
 3. Run the tests: `./gradlew test`
 
 ## Usage
